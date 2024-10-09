@@ -1,5 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const name = "TypeScriptの勉強";
-const priority = 3;
-console.log(`Todo 1 => ${name}（優先度:${priority})`); // テンプレート文字列
+const todo = {
+    name: "TypeScriptの勉強", // name = "..." ではない点に要注意
+    priority: 3, // priority = "..." ではない点に要注意
+};
+console.log(`Todo 1 => ${todo.name}（優先度:${todo.priority})`);
