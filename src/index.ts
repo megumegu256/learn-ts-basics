@@ -1,2 +1,2 @@
-console.log("■ prac02.ts の実行");
-import "./prac02";
+console.log("■ mutableApproach.ts の実行");
+import "./mutableApproach";
