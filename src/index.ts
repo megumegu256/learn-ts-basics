@@ -1,2 +1,2 @@
-console.log("■ mutableApproach.ts の実行");
-import "./mutableApproach";
+console.log("■ ex3-2.ts");
+import "./ex3-2";
